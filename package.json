@@ -1,0 +1,12 @@
+{
+  "name": "mi-app-electron",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electronmon ."
+  },
+  "devDependencies": {
+    "electron": "^X.X.X",
+    "electronmon": "^X.X.X"
+  }
+}
